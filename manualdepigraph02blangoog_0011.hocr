@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./manualdepigraph02blangoog_0011.png"; bbox 0 0 2617 4234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1 1465 1109 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 1465 1109 1828">
+     <span class='ocr_line' id='line_1_1' title="bbox 517 1465 749 1560; baseline 0.009 -4"><span class='ocrx_word' id='word_1_1' title='bbox 517 1465 749 1560; x_wconf 74' lang='lat' dir='ltr'><strong>MANUEL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1 1679 1109 1828; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 1 1731 2 1734; x_wconf 8' lang='grc' dir='ltr'><em>Ν</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 148 1679 629 1827; x_wconf 69' lang='lat' dir='ltr'>D’EPIGRAPHOE</span> <span class='ocrx_word' id='word_1_4' title='bbox 678 1682 1109 1828; x_wconf 70' lang='lat' dir='ltr'>CHRETIENNE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 1984 888 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 1984 888 2052">
+     <span class='ocr_line' id='line_1_3' title="bbox 368 1984 888 2052; baseline 0.006 -3"><span class='ocrx_word' id='word_1_5' title='bbox 368 1984 484 2050; x_wconf 65' lang='lat' dir='ltr'><strong>n&#39;fflffls</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 496 1995 549 2050; x_wconf 68' lang='lat' dir='ltr'><strong>ms</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 559 1996 690 2052; x_wconf 65' lang='lat' dir='ltr'>manans</span> <span class='ocrx_word' id='word_1_8' title='bbox 702 1996 738 2050; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 751 1997 787 2051; x_wconf 74' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 800 1998 888 2052; x_wconf 68' lang='lat' dir='ltr'><strong>mum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1314 4234">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1314 4234">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1314 4234; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1314 4234; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
